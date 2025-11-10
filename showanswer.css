@@ -2,9 +2,9 @@
 .quiz-question {
   margin-bottom: 10px;
   text-align: left;
-  font-size: 15px;
+  font-size: 16px;
   color: #f44336;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 .quiz-button {
@@ -32,9 +32,8 @@
   margin-top: 5px;
   margin-bottom: 15px;
   padding: 10px;
-  border-left: 3px solid #007bff;
   background-color: #f0f8ff;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .quiz-answer b {
@@ -42,11 +41,11 @@
 }
 
 .part-content {
-    max-width: 700px;
-    margin: 30px auto;
-    padding: 20px;
+    max-width: 100%;
+    margin: 10px auto;
+    padding: 10px;
     border: 1px solid #ddd;
-    border-radius: 8px;
+    border-radius: 0px;
     background-color: #fff;
 }
 hr {
